@@ -4,11 +4,11 @@ I am an analog design engineer at Dongwoon Anatech, a Korean fabless company in 
 Education:<br>
 B.S. in Electrical and Electronic Engineering, Yonsei University (2017 - 2020)<br>
 M.S. in Electrical and Electronic Engineering, Yonsei University (2021 - 2022)<br>
-
-Research Interests:
-Time-Frequency Analysis
-Computational Electromagnetics
-Analog Circuit Design
+<br>
+Research Interests:<br>
+Time-Frequency Analysis<br>
+Computational Electromagnetics<br>
+Analog Circuit Design<br>
 
 
 
