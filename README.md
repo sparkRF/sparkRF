@@ -9,7 +9,16 @@ Research Interests:<br>
 Time-Frequency Analysis<br>
 Computational Electromagnetics<br>
 Analog Circuit Design<br>
-
+<br>
+Software Experience:<br>
+Python<br>
+Matlab<br>
+C<br>
+<br>
+Contact:<br>
+seilpark@yonsei.ac.kr<br>
+<br>
+For more information, please refer to my blog.
 
 
 <!--
