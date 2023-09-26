@@ -1,4 +1,20 @@
 ### Hi there 👋
+# test
+## test
+### test
+
+I am an analog design engineer at Dongwoon Anatech, a Korean fabless company in Seoul, Korea.
+
+Education:
+B.S. in Electrical and Electronic Engineering, Yonsei University (2017 - 2020)
+M.S. in Electrical and Electronic Engineering, Yonsei University (2021 - 2022)
+
+Research Interests:
+Time-Frequency Analysis
+Computational Electromagnetics
+Analog Circuit Design
+
+
 
 <!--
 **spark-yonsei/spark-yonsei** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
