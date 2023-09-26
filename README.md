@@ -1,13 +1,9 @@
-### Hi there 👋
-# test
-## test
-### test
-
 I am an analog design engineer at Dongwoon Anatech, a Korean fabless company in Seoul, Korea.
-
-Education:
-B.S. in Electrical and Electronic Engineering, Yonsei University (2017 - 2020)
-M.S. in Electrical and Electronic Engineering, Yonsei University (2021 - 2022)
+<br>
+<br>
+Education:<br>
+B.S. in Electrical and Electronic Engineering, Yonsei University (2017 - 2020)<br>
+M.S. in Electrical and Electronic Engineering, Yonsei University (2021 - 2022)<br>
 
 Research Interests:
 Time-Frequency Analysis
