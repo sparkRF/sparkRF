@@ -1,4 +1,4 @@
-I am an analog design engineer at Dongwoon Anatech, a Korean fabless company in Seoul, Korea.
+I am an analog design engineer at Dongwoon Anatech, a fabless company in Seoul, Korea.
 <br>
 <br>
 Education:<br>
