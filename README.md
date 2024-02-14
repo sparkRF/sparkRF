@@ -17,8 +17,6 @@ C<br>
 <br>
 Contact:<br>
 seilpark@yonsei.ac.kr<br>
-<br>
-For more information, please refer to my blog.
 
 
 <!--
