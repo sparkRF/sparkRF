@@ -4,9 +4,9 @@ Work Experience:<br>
 Analog design engineer, Dongwoon Anatech (2023 - Present)<br>
 <br>
 Education:<br>
-Exchange Student, Nanyang Technological University (2019 Spring)<br>
-B.S. in Electrical and Electronic Engineering, Yonsei University (2017 - 2020)<br>
 M.S. in Electrical and Electronic Engineering, Yonsei University (2021 - 2022)<br>
+B.S. in Electrical and Electronic Engineering, Yonsei University (2017 - 2020)<br>
+Exchange Student, Nanyang Technological University (2019 Spring)<br>
 <br>
 Research Interests:<br>
 Time-Frequency Analysis<br>
