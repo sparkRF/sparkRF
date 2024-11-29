@@ -10,7 +10,7 @@ Time-Frequency Analysis<br>
 Computational Electromagnetics<br>
 Analog Circuit Design<br>
 <br>
-Software Experience:<br>
+Software Abilities:<br>
 Python<br>
 Matlab<br>
 C<br>
