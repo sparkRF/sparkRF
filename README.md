@@ -1,7 +1,8 @@
-I am an analog design engineer at Dongwoon Anatech, a fabless company in Seoul, Korea.<br>
+I am an analog design engineer at Seoul, Korea.
 <br>
 Work Experience:<br>
-Analog design engineer, Dongwoon Anatech (2023 - Present)<br>
+Analog design engineer, Dongwoon Anatech (2023 - 2025)<br>
+Analog design engineer, Iron Device Corporation (2025 - Present)<br>
 <br>
 Education:<br>
 M.S. in Electrical and Electronic Engineering, Yonsei University (2021 - 2022)<br>
