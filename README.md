@@ -1,4 +1,4 @@
-I am an analog design engineer at Seoul, Korea.<br>
+I am an analog design engineer at Iron Device Corporation.<br>
 <br>
 Work Experience:<br>
 Analog design engineer, Dongwoon Anatech (2023 - 2025)<br>
