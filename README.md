@@ -1,4 +1,4 @@
-I am an analog design engineer at Seoul, Korea.
+I am an analog design engineer at Seoul, Korea.<br>
 <br>
 Work Experience:<br>
 Analog design engineer, Dongwoon Anatech (2023 - 2025)<br>
